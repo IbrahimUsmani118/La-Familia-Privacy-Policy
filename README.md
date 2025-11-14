@@ -4,7 +4,7 @@
 **Applies to:** La Familia Social (collectively, the “Services”) 
 **Controller / Data Fiduciary:** OMATWT (“we”, “us”, “our”)
 
-> This India–Hybrid policy is tailored for users in India and aligns with the **Digital Personal Data Protection Act, 2023 (DPDP Act)** and the **Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021** (as amended). If any term here conflicts with a country-specific policy presented in-app, this India policy governs for users located in India.
+> This La Familia policy is tailored for users in India and aligns with the **Digital Personal Data Protection Act, 2023 (DPDP Act)** and the **Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021** (as amended). If any term here conflicts with a country-specific policy presented in-app, this India policy governs for users located in India.
 
 ---
 
